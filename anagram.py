@@ -1,4 +1,12 @@
 """
+
+P: permutation of given string.
+S: used both depth first traverse and breadth first traverse
+
+"""
+
+
+"""
 bugs resolved:
 1. result.append(sub) got "Nonetype cannot append error"
     : return result after the for loop
